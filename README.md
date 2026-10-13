@@ -45,7 +45,7 @@ A proposta é demonstrar habilidades de análise de dados, investigação de inc
 6. Interpretação e documentação dos resultados.
 
 ## Estrutura do projeto
-
+ 
 ```text
 analise-contratos-publicos/
 ├── README.md

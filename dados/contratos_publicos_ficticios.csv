@@ -1,0 +1,81 @@
+﻿id_contrato,orgao,fornecedor,valor,data_contrato,situacao,categoria
+CT0001,SENAD,Ômega Soluções,420000,2025-04-25,Vigente,Serviços
+CT0002,PF,Beta Serviços S.A.,1100000,2025-04-15,Vigente,Tecnologia
+CT0003,PRF,Delta Equipamentos,2100000,2025-04-06,Suspenso,Tecnologia
+CT0004,PRF,Sigma Sistemas,420000,2026-07-29,Encerrado,Infraestrutura
+CT0005,SENAD,Gama Consultoria,1100000,2025-10-12,Encerrado,Equipamentos
+CT0006,PRF,Nova Infraestrutura,120000,2025-06-09,Vigente,Consultoria
+CT0007,SENASP,Nova Infraestrutura,550000,2025-04-10,Vigente,Consultoria
+CT0008,SENAD,Sigma Sistemas,120000,2026-07-04,Suspenso,Equipamentos
+CT0009,SEGEN,Delta Equipamentos,120000,2026-01-06,Vigente,Serviços
+CT0010,SENAD,Delta Equipamentos,120000,2025-10-24,Encerrado,Equipamentos
+CT0011,PF,Nova Infraestrutura,250000,2026-04-10,Encerrado,Equipamentos
+CT0012,PF,,120000,2025-08-03,Suspenso,Serviços
+CT0013,PF,Delta Equipamentos,250000,2026-07-01,Encerrado,Consultoria
+CT0014,PF,Delta Equipamentos,780000,2025-10-04,Vigente,Serviços
+CT0015,SENASP,Sigma Sistemas,550000,2025-02-02,Vigente,Serviços
+CT0016,PRF,Horizonte Serviços,1100000,2025-11-19,Suspenso,Consultoria
+CT0017,SENASP,Gama Consultoria,420000,2025-05-27,Suspenso,Infraestrutura
+CT0018,SENASP,Sigma Sistemas,1100000,2026-07-06,Encerrado,Serviços
+CT0019,SEGEN,Horizonte Serviços,120000,2025-05-22,Vigente,Tecnologia
+CT0020,PF,Gama Consultoria,1100000,2025-06-06,Suspenso,Tecnologia
+CT0021,DEPEN,Horizonte Serviços,2100000,2026-01-30,Encerrado,Infraestrutura
+CT0022,PF,Beta Serviços S.A.,2100000,2025-01-12,Encerrado,Equipamentos
+CT0023,SENASP,Sigma Sistemas,250000,2025-04-25,Encerrado,Tecnologia
+CT0024,SEGEN,Gama Consultoria,,2025-09-27,Vigente,Equipamentos
+CT0025,SEGEN,Delta Equipamentos,250000,2026-06-04,Encerrado,Serviços
+CT0026,SEGEN,Alfa Tecnologia Ltda,780000,2026-07-07,Encerrado,Tecnologia
+CT0027,SENASP,Ômega Soluções,420000,2025-04-25,Vigente,Serviços
+CT0028,SENAD,Horizonte Serviços,120000,2025-03-22,Suspenso,Serviços
+CT0029,PF,Horizonte Serviços,2100000,2025-05-12,Vigente,Equipamentos
+CT0030,SEGEN,Sigma Sistemas,420000,2026-06-25,Suspenso,Serviços
+CT0031,DEPEN,Nova Infraestrutura,1450000,2025-11-16,Suspenso,Consultoria
+CT0032,PRF,Delta Equipamentos,120000,2025-05-04,Encerrado,Tecnologia
+CT0033,PRF,Delta Equipamentos,85000,2026-07-22,Vigente,Tecnologia
+CT0034,SENAD,Alfa Tecnologia Ltda,780000,2025-08-23,Vigente,Infraestrutura
+CT0035,SENASP,Horizonte Serviços,-20000,2025-09-01,Suspenso,Serviços
+CT0036,PRF,Horizonte Serviços,1100000,2026-04-30,Vigente,Tecnologia
+CT0037,PF,Sigma Sistemas,780000,2025-04-10,Encerrado,Consultoria
+CT0038,PF,Alfa Tecnologia Ltda,120000,2026-04-24,Vigente,Consultoria
+CT0039,SENAD,Delta Equipamentos,420000,2025-12-14,Vigente,Infraestrutura
+CT0040,PRF,Sigma Sistemas,250000,2026-04-05,Encerrado,Consultoria
+CT0041,SENAD,Horizonte Serviços,2100000,2025-09-13,Vigente,Tecnologia
+CT0042,SENAD,Beta Serviços S.A.,420000,2026-07-08,Vigente,Consultoria
+CT0043,DEPEN,Delta Equipamentos,1100000,2026-05-13,Vigente,Serviços
+CT0044,SENAD,Sigma Sistemas,550000,2026-01-24,Encerrado,Equipamentos
+CT0045,PF,Horizonte Serviços,250000,2026-03-10,Vigente,Equipamentos
+CT0046,SENAD,Alfa Tecnologia Ltda,780000,31/02/2026,Vigente,Tecnologia
+CT0047,SEGEN,Gama Consultoria,85000,2026-05-04,Suspenso,Tecnologia
+CT0048,SENAD,Beta Serviços S.A.,420000,2025-07-10,Encerrado,Tecnologia
+CT0049,SEGEN,Alfa Tecnologia Ltda,120000,2025-09-10,Encerrado,Infraestrutura
+CT0050,SEGEN,Nova Infraestrutura,550000,2026-08-02,Vigente,Equipamentos
+CT0051,SENASP,Sigma Sistemas,250000,2025-09-02,Suspenso,Equipamentos
+CT0052,SENASP,Beta Serviços S.A.,85000,2026-04-14,Encerrado,Infraestrutura
+CT0053,SENAD,Beta Serviços S.A.,2100000,2026-07-31,Vigente,Infraestrutura
+CT0054,PRF,Nova Infraestrutura,120000,2025-09-29,Vigente,Equipamentos
+CT0055,PRF,Horizonte Serviços,2100000,2025-10-19,Suspenso,Equipamentos
+CT0056,SENAD,Ômega Soluções,120000,2026-06-26,Vigente,Equipamentos
+CT0057,,Gama Consultoria,550000,2025-04-29,Encerrado,Infraestrutura
+CT0058,PF,Nova Infraestrutura,420000,2025-08-04,Suspenso,Equipamentos
+CT0059,DEPEN,Ômega Soluções,85000,2026-06-02,Vigente,Consultoria
+CT0060,SENAD,Alfa Tecnologia Ltda,780000,2025-10-11,Vigente,Equipamentos
+CT0061,PF,Horizonte Serviços,2100000,2025-06-15,Suspenso,Consultoria
+CT0062,SENAD,Beta Serviços S.A.,120000,2026-07-29,Suspenso,Serviços
+CT0063,SENAD,Nova Infraestrutura,2100000,2026-07-13,Vigente,Consultoria
+CT0064,SENAD,Ômega Soluções,780000,2025-05-11,Vigente,Equipamentos
+CT0065,PF,Delta Equipamentos,120000,2025-08-04,Encerrado,Infraestrutura
+CT0066,SEGEN,Gama Consultoria,420000,2026-02-21,Vigente,Serviços
+CT0067,SENAD,Gama Consultoria,780000,2026-02-27,Encerrado,Serviços
+CT0013,PF,Delta Equipamentos,250000,2026-07-01,Encerrado,Consultoria
+CT0069,PRF,Horizonte Serviços,780000,2025-08-16,Encerrado,Serviços
+CT0070,SENAD,Delta Equipamentos,1100000,2025-08-17,Encerrado,Equipamentos
+CT0071,SENASP,Nova Infraestrutura,2100000,2025-03-13,Encerrado,Infraestrutura
+CT0072,SENAD,Beta Serviços S.A.,550000,2025-12-06,Vigente,Infraestrutura
+CT0073,SENAD,Beta Serviços S.A.,1100000,2025-09-29,Encerrado,Equipamentos
+CT0074,SEGEN,Beta Serviços S.A.,1100000,2026-03-23,Suspenso,Serviços
+CT0075,SENAD,Sigma Sistemas,85000,2025-09-18,Suspenso,Infraestrutura
+CT0076,SENASP,Sigma Sistemas,120000,2025-07-21,Suspenso,Equipamentos
+CT0077,PF,Beta Serviços S.A.,550000,2025-11-18,Suspenso,Equipamentos
+CT0078,SENASP,Sigma Sistemas,550000,2026-02-23,Suspenso,Serviços
+CT0079,DEPEN,Sigma Sistemas,250000,2025-07-16,Suspenso,Infraestrutura
+CT0080,DEPEN,Alfa Tecnologia Ltda,550000,2025-11-05,Encerrado,Serviços

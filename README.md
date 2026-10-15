@@ -63,3 +63,18 @@ Os resultados, indicadores e conclusões serão documentados à medida que as an
 Wesley Ribeiro dos Santos
 
 Projeto desenvolvido para fins de estudo e demonstração de competências em análise de dados.
+
+
+## Análise Exploratória — Distribuição dos Contratos
+
+![Distribuição dos contratos por faixa de valor](imagens/distribuicao_contratos.png)
+
+### Principais resultados
+
+A análise de 75 contratos válidos identificou que:
+
+- 28 contratos possuem valores de até R$ 250 mil.
+- 21 contratos possuem valores superiores a R$ 1 milhão.
+- Esses 21 contratos representam 28% da quantidade total, mas concentram 63,70% do valor financeiro analisado.
+
+**Conclusão:** os contratos de maior valor concentram uma parcela expressiva do valor total, demonstrando a importância da análise de distribuição financeira.

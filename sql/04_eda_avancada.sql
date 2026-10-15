@@ -139,3 +139,67 @@ WHERE status_qualidade = 'VALIDO'
 
 ORDER BY valor;
 
+
+
+-- ==================================================
+-- ETAPA 21: DISTRIBUICAO DE FREQUENCIAS
+-- Quantidade, valor total e participacao percentual
+-- ==================================================
+
+WITH contratos_classificados AS (
+
+    SELECT
+        id_contrato,
+        valor,
+
+        CASE
+            WHEN valor <= 250000
+                THEN '01 - Ate 250 mil'
+
+            WHEN valor <= 500000
+                THEN '02 - De 250 a 500 mil'
+
+            WHEN valor <= 1000000
+                THEN '03 - De 500 mil a 1 milhao'
+
+            ELSE '04 - Acima de 1 milhao'
+        END AS faixa_valor
+
+    FROM workspace.portfolio_contratos.vw_contratos_tratados
+
+    WHERE status_qualidade = 'VALIDO'
+),
+
+resumo_faixas AS (
+
+    SELECT
+        faixa_valor,
+        COUNT(*) AS quantidade_contratos,
+        SUM(valor) AS valor_total
+
+    FROM contratos_classificados
+
+    GROUP BY faixa_valor
+)
+
+SELECT
+    faixa_valor,
+    quantidade_contratos,
+    valor_total,
+
+    ROUND(
+        100.0 * quantidade_contratos
+        / SUM(quantidade_contratos) OVER (),
+        2
+    ) AS percentual_contratos,
+
+    ROUND(
+        100.0 * valor_total
+        / SUM(valor_total) OVER (),
+        2
+    ) AS percentual_valor
+
+FROM resumo_faixas
+
+ORDER BY faixa_valor;
+

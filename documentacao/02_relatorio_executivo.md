@@ -57,3 +57,20 @@ Todos os dados são fictícios e não representam contratações reais.
 Os valores analisados correspondem aos valores dos contratos registrados na base, não a pagamentos efetivamente realizados.
 
 As regras de qualidade foram definidas para fins educacionais e podem ser ampliadas em etapas futuras.
+
+
+## 9. Análise exploratória da distribuição financeira
+
+A análise dos 75 contratos válidos identificou diferenças relevantes entre a quantidade de contratos e a concentração dos valores financeiros.
+
+A faixa acima de R$ 1 milhão reuniu 21 contratos, equivalentes a 28% dos registros, mas concentrou R$ 33.450.000, correspondentes a 63,70% do valor total.
+
+Em contrapartida, a faixa de até R$ 250 mil apresentou a maior quantidade de contratos, com 28 registros (37,33%), representando apenas 8,05% do valor financeiro.
+
+A média dos contratos foi de R$ 700.200, enquanto a mediana aproximada foi de R$ 420.000, sugerindo assimetria à direita na distribuição.
+
+A análise pelo intervalo interquartil não identificou outliers entre os contratos válidos.
+
+**Conclusão:** os contratos de maior valor concentram parcela expressiva dos recursos registrados na base fictícia, demonstrando a importância de analisar simultaneamente frequência, valor financeiro e dispersão estatística.
+
+
